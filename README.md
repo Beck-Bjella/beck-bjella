@@ -11,8 +11,3 @@ A high school senior and aspiring Computer Science student passionate about AI, 
 
 4. [**Eclipse Aimbot**](https://github.com/Beck-Bjella/Eclipse):  
    A neural network-based aimbot designed and optimized for tracking moving players.
-
-
-## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beck-bjella&rank_icon=github&show_icons=true&theme=shadow_blue )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beck-bjella&layout=compact&theme=shadow_blue)
